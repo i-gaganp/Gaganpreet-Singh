@@ -9,5 +9,5 @@ I work on client specific web applications (mainly on fron-end)
 SKILLS
 
 Front-end Dev
-Software Dev
+
 HTML, CSS, JavaScript, Bootstrap, PHP, NodeJS, ReactJS, SQL, jQuery
