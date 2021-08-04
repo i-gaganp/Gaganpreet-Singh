@@ -10,7 +10,7 @@ I work on client specific web applications (mainly on fron-end)
 
 📫 Connect me on LinkedIn @ipreet
 
-SKILLS
+Some of my Skills are:
 
 Front-end Dev
 
