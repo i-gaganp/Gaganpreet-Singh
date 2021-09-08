@@ -14,4 +14,4 @@ Some of my Skills are:
 
 Front-end Dev
 
-HTML, CSS, JavaScript, Bootstrap, PHP, NodeJS, ReactJS, SQL, jQuery
+HTML, CSS, JavaScript, SASS, Bootstrap, Semantic UI, PHP, ReactJS, React-JSX, jQuery, AJAX, JSON
