@@ -6,12 +6,12 @@
 
 🐱‍🚀 I’m currently Working as a Software Engineer in an MNC.
 
-I work on client specific web applications (mainly on fron-end)
+    I work on client specific web applications (mainly on fron-end)
 
-📫 Connect me on LinkedIn @ipreet
+📫 Connect with me on LinkedIn @ipreet
 
-Some of my Skills are:
+    Some of my Skills are:
 
-Front-end Dev
+    Front-end Dev
 
-HTML, CSS, JavaScript, SASS, Bootstrap, jQuery, AJAX, JSON
+    HTML, CSS, JavaScript, SASS, Bootstrap, jQuery, AJAX, JSON
